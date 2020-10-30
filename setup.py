@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="coinbasepro-pkg-dndungu",
-    version="0.0.3",
+    version="0.0.5",
     author="David Ndungu",
     author_email="david@ndungu.dev",
     description="Coinbasepro candles fetcher",
